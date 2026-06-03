@@ -1,2 +1,3 @@
-# FNaFB3-New-Hires
-The expansion pack to Five Nights at Frickbear's 3!
+# Five Nights at Frickbear's 3: New Hires
+
+### This revived repository is under construction. Check back later.
